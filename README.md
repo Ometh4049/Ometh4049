@@ -1,6 +1,7 @@
 # 💫 About Me:
 👨‍💻 Software Engineering Undergraduate | 🤖 AI & ML Learner | 🌐 Backend Web Development & Database Enthusiast | 📊 Math Enthusiast<br><br>Hi there! I'm currently pursuing a degree in Software Engineering, with a strong focus on OOP, backend side of web development, and database management. I love learning new technologies and enjoy working on projects that push me to improve my skills.<br><br>🚀 Current Goal: Gain solid expertise in **AI & ML models** , Work on projects that apply real-world use cases..<br>💻 Tech Interests: Python, C#, Java, PostgreSQL, MySQL, SpringBoot , Laravel,MERN , NEXT.JS and more!<br>📈 Passion: Building **ML models** to solve problems, Backend development, data structures, algorithms, Database Engineering and mathematical problem-solving.<br>🎯 Future Projects: Leveraging my skills for innovative projects and solutions in the tech industry.<br>🇯🇵 Learning Japanese because I love the culture!<br>Let's connect and build something awesome together!
 
+Visit Me : ![]([(https://poojana-ometh.vercel.app/))
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
